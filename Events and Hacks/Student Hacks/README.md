@@ -56,7 +56,8 @@ We offer a full suite of courses on [Microsoft Learn](https://docs.microsoft.com
 
 ### What can our team win?
 
-Each member of your team (up to 4 people) will win a backpack full of swag and prizes. The primary requirement is that your hack project includes Azure in some way. Please be sure to read the Terms & Conditions for Azure Prize specific to *your* hackathon. Ask the on-site Microsoft representatives for full details!
+$1,000 to be donated to an approved charity of your team's choice - we believe in social good! In addition, each member of your team (up to 4 people) will win a Surface Go with keyboard! Lastly, you'll get prioritized entry into the Imagine Cup Semi-Finals, Microsoft's global student competition. 
+The primary requirement is that your hack project includes Azure in some way. Please be sure to read the Terms & Conditions for Azure Prize specific to *your* hackathon. Ask the on-site Microsoft representatives for full details!
 
 ### I want to enter my winning hack project into Imagine Cup
 
